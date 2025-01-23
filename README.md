@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a developer with a passion for Anti-Money Laun
 
 ## 🛠 Projects
 ### [Crypto AML Checker](https://github.com/AMLChecker/crypto-aml-check)
-Crypto AML Detection is a toolset for detecting and analyzing Anti-Money Laundering (AML) activities in cryptocurrency transactions using machine learning and blockchain data. It helps crypto platforms identify suspicious transactions, predict risks, and ensure AML compliance in real-time.
+It helps crypto platforms identify suspicious transactions, predict risks, and ensure AML compliance in real-time.
 
 ## 📈 GitHub Stats
 ![AMLChecker's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMLChecker&show_icons=true&theme=radical)
